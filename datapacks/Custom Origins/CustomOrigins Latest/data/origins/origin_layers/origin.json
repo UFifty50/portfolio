@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "order": 0,
+  "enabled": true,
+  "origins": [
+    "customorigins:robot",
+    "customorigins:catboy",
+    "customorigins:bumblebee",
+    "customorigins:cheetah",
+    "customorigins:axolotl"
+  ],
+  "allow_random": true
+}

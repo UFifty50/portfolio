@@ -1,0 +1,23 @@
+{
+  "name": "pydp",
+  "version": "1.0.0",
+  "description": "A data pack created with Sandstone",
+  "scripts": {
+    "watch": "sand watch",
+    "build": "sand build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sandstone": "^0.13.0"
+  },
+  "devDependencies": {
+    "@types/node": "^15.12.1",
+    "sandstone-cli": "^0.5.3",
+    "typescript": "^4.3.2"
+  },
+  "engines": {
+    "node": ">=12.9.0"
+  }
+}

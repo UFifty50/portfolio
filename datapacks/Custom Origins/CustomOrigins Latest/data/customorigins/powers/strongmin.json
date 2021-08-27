@@ -1,0 +1,25 @@
+{
+    "type": "origins:modify_damage_dealt",
+    "modifier": {
+      "name": "Extra damage",
+      "value": 2,
+      "operation": "multiply_base"
+    },
+    "condition": {
+        "type": "origins:or",
+        "conditions": [
+          {
+            "type": "origins:fluid_height",
+            "fluid": "minecraft:water",
+            "comparison": "<",
+            "compare_to": 0.9
+          },
+          {
+            "type": "origins:in_rain",
+            "inverted": true
+          }
+        ]
+    },
+    "hidden": true
+}
+  

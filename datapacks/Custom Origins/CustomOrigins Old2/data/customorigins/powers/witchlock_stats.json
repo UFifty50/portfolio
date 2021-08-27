@@ -1,0 +1,25 @@
+{
+  "type": "origins:attribute",
+  "modifiers": [
+	{
+	  "name": "Origin modifier",
+	  "attribute": "generic.max_health",
+	  "value": -2,
+	  "operation": "addition"
+	},
+	{
+	  "name": "Origin modifier",
+	  "attribute": "generic.attack_damage",
+	  "value": -4,
+	  "operation": "addition"
+	},
+	{
+	  "name": "Origin modifier",
+	  "attribute": "generic.movement_speed",
+	  "value": -0.005,
+	  "operation": "addition"
+	}
+  ],
+  "name": "Witchlock Powers",
+  "description": "You gain the powers of the Witch but your Human side has weakened your physical form."
+}

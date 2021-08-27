@@ -1,0 +1,35 @@
+{
+    "type": "origins:action_over_time",
+    "hidden": true,
+    "name": "shorter",
+    "condition": {
+        "type": "origins:power_active",
+        "inverted": false,
+        "power": "time_speed"
+    },
+    "entity_action": {
+        "type": "origins:if_else",
+        "condition": {
+            "type": "origins:power_active",
+            "inverted": false,
+            "power": "time_speed"
+        },
+        "if_action": {
+            "type": "pehkui:base",
+            "scale": 0.875
+        },
+        "else_action": {
+            "type": "pehkui:base",
+            "scale": 1
+        }
+    },
+    "interval": 10,
+    "rising_action": {
+        "type": "pehkui:base",
+        "scale": 0.875
+    },
+    "falling_action": {
+        "type": "pehkui:base",
+        "scale": 1
+    }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "origins:model_color",
+  "alpha": 0.80,
+  "red": 0.55,
+  "green": 0.15,
+  "blue": 0.85,
+  "name": "Metal Skin",
+  "description": "You have the gray dark skin of a Robot."
+}

@@ -1,0 +1,9 @@
+{
+  "type": "origins:launch",
+  "speed": 1,
+  "cooldown": 600,
+  "hud_render": {
+    "sprite_location": "minecraft:textures/mob_effect/jump_boost.png",
+    "bar_index": "1"
+  }
+}

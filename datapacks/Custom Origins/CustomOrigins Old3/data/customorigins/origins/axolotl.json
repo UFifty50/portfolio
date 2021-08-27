@@ -1,0 +1,22 @@
+{
+	"powers": [
+		"origins:water_breathing",
+		"origins:water_vision",
+		"origins:aqua_affinity",
+		"origins:swim_speed",
+		"origins:like_water",
+		"origins:aquatic",
+		"origins:conduit_power_on_land",
+		"origins:air_from_potions",
+        "customorigins:strongmin",
+        "customorigins:strong",
+        "customorigins:small2"
+	],
+	"icon": {
+		"item": "minecraft:turtle_spawn_egg"
+	},
+	"order": 0,
+	"impact": 3,
+    "name": "axolotl",
+    "description": "Small, fast, deadly and cute."
+}

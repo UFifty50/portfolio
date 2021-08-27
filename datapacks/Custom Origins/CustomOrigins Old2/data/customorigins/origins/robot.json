@@ -1,0 +1,21 @@
+{
+    "powers": [
+        "origins:natural_armor",
+        "customorigins:more_damage",
+        "customorigins:tailwind",
+        "customorigins:no_exhaustion",
+        "customorigins:metal_skin",
+        "customorigins:size",
+        "customorigins:less_health",
+        "customorigins:water_vulnerability",
+        "customorigins:no_armor",
+        "customorigins:evokerfangs",
+        "customorigins:flammable"
+    ],
+    "icon": "minecraft:iron_ingot",
+    "order": 4,
+    "impact": 2,
+    "name": "robot",
+    "description": "Robot origin :D"
+}
+

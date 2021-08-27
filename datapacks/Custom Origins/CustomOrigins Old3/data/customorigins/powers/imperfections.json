@@ -1,0 +1,13 @@
+{
+  "type": "origins:attribute",
+  "modifiers": [
+	{
+	  "name": "Origin modifier",
+	  "attribute": "generic.max_health",
+	  "value": -2,
+	  "operation": "addition"
+	}
+  ],
+  "name": "Imperfections",
+  "description": "Your getting rusty, might want to get that looked at..."
+}

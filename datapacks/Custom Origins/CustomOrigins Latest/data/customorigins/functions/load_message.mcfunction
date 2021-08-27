@@ -1,0 +1,1 @@
+tellraw @a [{"text":"["},{"text":"UFifty50","color":"aqua"},{"text":"] >> "}, {"text":"Thanks for installing my custom origins Datapack! The robot, cheetah, catboy and axolotl origins are made by me, UFifty50 :)","color":"green"}]

@@ -1,0 +1,16 @@
+{
+    "impact": 2,
+    "unchoosable": false,
+    "icon": "blue_wool",
+    "name": "sonic",
+    "description": "Born from games, nothing can surmount the speed of this origin",
+    "powers": [
+        "sonicpack:time_speed",
+        "sonicpack:speed",
+        "sonicpack:shorter",
+        "sonicpack:special",
+        "sonicpack:noswim",
+        "sonicpack:health",
+        "sonicpack:armor"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "origins:attribute",
+  "modifiers": [
+	{
+	  "name": "Origin modifier",
+	  "attribute": "generic.max_health",
+	  "value": 10,
+	  "operation": "addition"
+	},
+	{
+	  "name": "Origin modifier",
+	  "attribute": "generic.attack_damage",
+	  "value": 5,
+	  "operation": "addition"
+	},
+	{
+	  "name": "Origin modifier",
+	  "attribute": "generic.attack_speed",
+	  "value": -0.2,
+	  "operation": "addition"
+	},
+	{
+	  "name": "Origin modifier",
+	  "attribute": "generic.knockback_resistance",
+	  "value": 100,
+	  "operation": "addition"
+	},
+	{
+	  "name": "Origin modifier",
+	  "attribute": "generic.movement_speed",
+	  "value": -0.025,
+	  "operation": "addition"
+	}
+  ],
+  "name": "Giants Gifts",
+  "description": "You are one of the most powerful things alive and have many great abilities."
+}

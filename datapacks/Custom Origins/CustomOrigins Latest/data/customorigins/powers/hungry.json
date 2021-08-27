@@ -1,0 +1,10 @@
+{
+  "type": "origins:modify_exhaustion",
+  "modifier": {
+	"name": "No exhaustion from Origin power",
+	"operation": "multiply_total",
+	"value": 3
+  },
+  "name": "small stomache",
+  "description": "You need to eat a lot."
+}

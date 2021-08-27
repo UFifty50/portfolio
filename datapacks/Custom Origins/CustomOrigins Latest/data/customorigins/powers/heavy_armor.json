@@ -1,0 +1,11 @@
+{
+  "type": "origins:attribute",
+  "modifier": {
+    "name": "Natural Armor health bonus",
+    "attribute": "minecraft:generic.armor",
+    "value": 8.5,
+    "operation": "addition"
+  },
+  "name": "Armored Skin",
+  "description": "Your skin is hard as rock making you very strong."
+}

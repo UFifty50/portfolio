@@ -1,0 +1,76 @@
+{
+    "type": "origins:multiple",
+    "name": "time speed",
+    "loading_priority": 0,
+    "hidden": false,
+    "sprint1": {
+        "type": "origins:conditioned_attribute",
+        "modifier": {
+            "attribute": "minecraft:generic.movement_speed",
+            "operation": "addition",
+            "value": 0.035,
+            "name": "Increased sprinting speed"
+        },
+        "tick_rate": 1,
+        "condition": {
+            "type": "origins:sprinting",
+            "inverted": false
+        }
+    },
+    "sprint2": {
+        "type": "origins:conditioned_attribute",
+        "modifier": {
+            "attribute": "minecraft:generic.movement_speed",
+            "operation": "addition",
+            "value": 0.04,
+            "name": "Increased sprinting speed"
+        },
+        "tick_rate": 70,
+        "condition": {
+            "type": "origins:sprinting",
+            "inverted": false
+        }
+    },
+    "sprint3": {
+        "type": "origins:conditioned_attribute",
+        "modifier": {
+            "attribute": "minecraft:generic.movement_speed",
+            "operation": "addition",
+            "value": 0.05,
+            "name": "Increased sprinting speed"
+        },
+        "tick_rate": 150,
+        "condition": {
+            "type": "origins:sprinting",
+            "inverted": false
+        }
+    },
+    "sprint4": {
+        "type": "origins:conditioned_attribute",
+        "modifier": {
+            "attribute": "minecraft:generic.movement_speed",
+            "operation": "addition",
+            "value": 0.075,
+            "name": "Increased sprinting speed"
+        },
+        "tick_rate": 230,
+        "condition": {
+            "type": "origins:sprinting",
+            "inverted": false
+        }
+    },
+    "sprint5": {
+        "type": "origins:conditioned_attribute",
+        "modifier": {
+            "attribute": "minecraft:generic.movement_speed",
+            "operation": "addition",
+            "value": 0.09,
+            "name": "Increased sprinting speed"
+        },
+        "tick_rate": 320,
+        "condition": {
+            "type": "origins:sprinting",
+            "inverted": false
+        }
+    }
+}

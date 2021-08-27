@@ -1,0 +1,15 @@
+{
+    "powers": [
+        "origins:fall_immunity",
+        "customorigins:cheetah_health",
+        "customorigins:cheetah_speed",
+        "customorigins:cheetah_haste",
+        "customorigins:cheetah_water",
+        "customorigins:cheetah_hungry"
+    ],
+    "icon": "minecraft:bee_spawn_egg",
+    "order": 3,
+    "impact": 1,
+    "name": "cheetah",
+    "description": "whats 4962x3? i dont know either, but that cheetah certainly does."
+}

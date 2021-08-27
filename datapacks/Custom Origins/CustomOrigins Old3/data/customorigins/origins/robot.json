@@ -1,0 +1,22 @@
+{
+    "powers": [
+        "customorigins:heavy_armor",
+        "customorigins:more_damage",
+        "customorigins:tailwind",
+        "customorigins:no_exhaustion",
+        "customorigins:metal_skin",
+        "customorigins:size",
+        "customorigins:imperfections",
+        "customorigins:water_vulnerability",
+        "customorigins:no_armor",
+        "customorigins:jump",
+        "customorigins:flammable",
+        "customorigins:repairs"
+    ],
+    "icon": "minecraft:iron_ingot",
+    "order": 1,
+    "impact": 3,
+    "name": "robot",
+    "description": "The creation of an ancient race of humans, you are a metallic behmoth -- a sight to behold."
+}
+

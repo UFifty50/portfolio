@@ -1,0 +1,44 @@
+{
+    "type": "origins:conditioned_attribute",
+    "name": "speed",
+    "tick_rate": 5,
+    "modifier": {
+        "operation": "multiply_base",
+        "value": 1.019,
+        "name": "placeholder",
+        "attribute": "minecraft:generic.movement_speed"
+    },
+    "condition": {
+        "type": "origins:or",
+        "inverted": false,
+        "conditions": [
+            {
+                "type": "origins:sprinting",
+                "inverted": true
+            },
+            {
+                "type": "origins:and",
+                "inverted": false,
+                "conditions": [
+                    {
+                        "type": "origins:power_active",
+                        "inverted": false,
+                        "power": "time_speed"
+                    },
+                    {
+                        "type": "origins:saturation_level",
+                        "inverted": false,
+                        "comparison": "<=",
+                        "compare_to": 6.5
+                    }
+                ]
+            },
+            {
+                "type": "origins:power_active",
+                "inverted": false,
+                "power": "time_speed"
+            }
+        ]
+    },
+    "hidden": true
+}

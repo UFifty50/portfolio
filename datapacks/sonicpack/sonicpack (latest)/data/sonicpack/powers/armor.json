@@ -1,0 +1,32 @@
+{
+    "type": "origins:restrict_armor",
+    "name": "health",
+    "head": {
+        "type": "origins:ingredient",
+        "inverted": false,
+        "ingredient": {
+            "item": "netherite_ingot"
+        }
+    },
+    "chest": {
+        "type": "origins:ingredient",
+        "inverted": false,
+        "ingredient": {
+            "item": "netherite_ingot"
+        }
+    },
+    "legs": {
+        "type": "origins:ingredient",
+        "inverted": false,
+        "ingredient": {
+            "item": "netherite_ingot"
+        }
+    },
+    "feet": {
+        "type": "origins:ingredient",
+        "inverted": false,
+        "ingredient": {
+            "item": "netherite_ingot"
+        }
+    }
+}

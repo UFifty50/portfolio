@@ -1,0 +1,20 @@
+{
+    "powers": [
+        "origins:fall_immunity",
+        "origins:sprint_jump",
+        "origins:scare_creepers",
+        "customorigins:small",
+        "customorigins:tailwind2",
+        "customorigins:darkvision",
+        "customorigins:vulnerable",
+        "customorigins:hungry",
+        "customorigins:cat_skin",
+        "customorigins:less_reach"
+    ],
+    "icon": "minecraft:string",
+    "order": 3,
+    "impact": 3,
+    "name": "catboy",
+    "description": "Cats are small cute and agile. Who could want more!"
+}
+

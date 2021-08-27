@@ -1,0 +1,20 @@
+{
+    "powers": [
+        "origins:fall_immunity",
+        "origins:sprint_jump",
+        "origins:scare_creepers",
+        "origins:cat_vision",
+        "customorigins:small",
+        "customorigins:tailwind2",
+        "customorigins:darkvision",
+        "origins:nine_lives",
+        "origins:more_exhaustion",
+        "origins:cat_skin"
+    ],
+    "icon": "minecraft:string",
+    "order": 4,
+    "impact": 2,
+    "name": "catboy",
+    "description": "Idfk what this origin is :D (apart from a modified feline origin, but i didnt know it existed when i came up with the idea for this one)"
+}
+

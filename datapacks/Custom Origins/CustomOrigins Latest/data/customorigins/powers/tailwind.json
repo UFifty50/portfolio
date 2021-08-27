@@ -1,0 +1,11 @@
+{
+  "type": "origins:attribute",
+  "modifier": {
+    "name": "Tailwind speed bonus",
+    "attribute": "minecraft:generic.movement_speed",
+    "value": 0.03,
+    "operation": "addition"
+  },
+  "name": "Propulsion",
+  "description": "Your legs are hydraulicly enhanced, and so are much more powerful."
+}

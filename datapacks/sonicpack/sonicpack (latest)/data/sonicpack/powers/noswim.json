@@ -1,0 +1,33 @@
+{
+    "type": "origins:stacking_status_effect",
+    "name": "noswim",
+    "hidden": true,
+    "condition": {
+        "type": "origins:fluid_height",
+        "inverted": false,
+        "comparison": ">=",
+        "fluid": "minecraft:water",
+        "compare_to": 1
+    },
+    "duration_per_stack": 20,
+    "min_stacks": 1,
+    "max_stacks": 5,
+    "effects": [
+        {
+            "duration": 200,
+            "is_ambient": false,
+            "show_particles": false,
+            "show_icon": true,
+            "effect": "slowness",
+            "amplifier": 2
+        },
+        {
+            "duration": 200,
+            "is_ambient": false,
+            "show_particles": true,
+            "show_icon": true,
+            "effect": "weakness",
+            "amplifier": 3
+        }
+    ]
+}

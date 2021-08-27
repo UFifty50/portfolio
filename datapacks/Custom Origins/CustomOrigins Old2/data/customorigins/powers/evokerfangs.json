@@ -1,0 +1,9 @@
+{
+  "type": "origins:launch",
+  "speed": 1,
+  "cooldown": 90,
+  "hud_render": {
+    "sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_02.png",
+    "bar_index": "17"
+  }
+}

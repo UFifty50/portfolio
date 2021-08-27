@@ -1,0 +1,8 @@
+{
+  "type": "origins:modify_damage_dealt",
+  "modifier": {
+    "name": "Extra damage",
+    "value": 1.75,
+    "operation": "multiply_base"
+  }
+}

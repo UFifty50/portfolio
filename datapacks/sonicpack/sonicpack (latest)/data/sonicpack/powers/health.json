@@ -1,0 +1,11 @@
+{
+    "type": "origins:attribute",
+    "name": "health",
+    "hidden": false,
+    "modifier": {
+        "operation": "addition",
+        "value": -4,
+        "attribute": "generic.max_health",
+        "name": "Origin modifier"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "origins:attacker_action_when_hit",
+    "hidden": false,
+    "cooldown": 10,
+    "hud_render": {
+        "should_render": true,
+        "sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_02.png",
+        "bar_index": 1
+    },
+    "entity_action": {
+        "type": "origins:damage",
+        "amount": 3,
+        "source": {
+            "bypasses_armor": true,
+            "fire": true,
+            "unblockable": false,
+            "magic": true,
+            "out_of_world": true,
+            "name": "player"
+        }
+    },
+    "name": "thorns"
+}

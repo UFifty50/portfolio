@@ -1,0 +1,20 @@
+{
+    "powers": [
+        "origins:natural_armor",
+        "customorigins:more_damage",
+        "origins:tailwind",
+        "customorigins:no_exhaustion",
+        "customorigins:metal_skin",
+        "customorigins:size",
+        "customorigins:less_health",
+        "customorigins:water_vulnerability",
+        "customorigins:no_armor",
+        "customorigins:evokerfangs"
+    ],
+    "icon": "minecraft:string",
+    "order": 4,
+    "impact": 2,
+    "name": "catboy",
+    "description": "Idfk what this origin is :D (apart from a modified feline origin, but i didnt know it existed when i came up with the idea for this one)"
+}
+

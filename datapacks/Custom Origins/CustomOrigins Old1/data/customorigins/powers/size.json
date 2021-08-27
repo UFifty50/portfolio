@@ -1,0 +1,6 @@
+{
+  "type": "extraorigins:modify_size",
+  "scale": 1.25,
+  "name": "Size",
+  "description": "You are 2.5 blocks tall."
+}

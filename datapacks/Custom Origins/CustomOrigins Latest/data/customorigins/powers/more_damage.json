@@ -1,0 +1,10 @@
+{
+  "type": "origins:modify_damage_dealt",
+  "modifier": {
+    "name": "Extra damage",
+    "value": 2,
+    "operation": "multiply_base"
+  },
+  "name": "Metal fists",
+  "description": "Your fists are made of solid iron, and so have a large damage bonus."
+}

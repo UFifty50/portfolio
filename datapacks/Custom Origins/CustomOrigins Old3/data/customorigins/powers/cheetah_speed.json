@@ -1,0 +1,12 @@
+{
+    "type": "origins:attribute",
+    "modifier": {
+      "name": "Tailwind speed bonus",
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.082,
+      "operation": "addition"
+    },
+    "name": "Zoom but with good internet",
+    "description": "Your hind legs are like bullets, superspeed comes naturally to you."
+  }
+  
