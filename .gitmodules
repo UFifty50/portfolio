@@ -1,3 +1,15 @@
 [submodule "GUI-FTC-CTF-LYD"]
 	path = GUI-FTC-CTF-LYD
 	url = https://github.com/UFifty50/GUI-FTC-CTF-LYD
+[submodule "datapacks/bunkerCraft"]
+	path = datapacks/bunkerCraft
+	url = https://github.com/UFifty50/bunkerCraft
+[submodule "website"]
+	path = website
+	url = https://github.com/UFifty50/UFifty50.github.io
+[submodule "mc-mod"]
+	path = mc-mod
+	url = https://github.com/Ufifty50/mc-mod
+[submodule "Qos"]
+	path = Qos
+	url = https://github.com/UFifty50/Qos
