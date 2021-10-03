@@ -13,3 +13,6 @@
 [submodule "Qos"]
 	path = Qos
 	url = https://github.com/UFifty50/Qos
+[submodule "Jonty"]
+	path = Jonty
+	url = https://github.com/UFifty50/Jonty
