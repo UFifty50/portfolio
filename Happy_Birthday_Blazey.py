@@ -39,7 +39,7 @@ def printCake():
         print("\t|     \        /     |")
         print("\t|      \______/      |")
         print("\t|____________________|")
-        print("\n\tHab sum cake :)")
+        print("\n\tHav sum cake :)")
     else:
         print("\n\t     /~~~~\      ")
         print("\t    /      \_    ")
@@ -49,7 +49,7 @@ def printCake():
         print("\t|               |")
         print("\t|               |")
         print("\t|_______________|")
-        print("\n\tIsh mey not bee chu's birtday, but chu can still hab sum volcano cake! :3")
+        print("\n\tIt may not be your birtday, but you can still have sum volcano cake! :D")
 if __name__ == "__main__":
     happyBirthday(name)
     printCake()
